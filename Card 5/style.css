@@ -1,0 +1,451 @@
+*{
+    padding: 0 ;
+    margin: 0%;
+
+}
+   body{
+            background-color: black;
+            color: azure;
+            padding-right: 10%;
+            padding-left: 10%;
+            
+   }
+
+   .mainone{
+
+    display: flex;
+    padding-top: 5%;
+
+   }
+
+   .right{
+         
+    margin-left: 10%;
+
+   }
+     
+  .studio{
+ 
+    position: relative;
+    bottom: 96px;
+
+  }
+
+  .unorder{
+
+    display: flex;
+    list-style: none;
+    margin-left: 20%;
+    align-items: center;
+  }
+
+ .Home{
+        
+         font-weight: bold;
+ }
+
+ .specs{
+
+  margin-left: 14%;
+  font-weight: bold;
+ }
+
+ .case{
+  margin-left: 14%;
+  font-weight: bold;
+ }
+
+ .pro{
+   margin-left: 14%;
+    font-weight: bold;
+ 
+ }
+
+ .shop{
+
+  margin-left: 14%;
+  font-weight: bold;
+ }
+
+ .button{
+
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: rgba(87, 84, 84, 0.489) ;
+  color: floralwhite;
+  border: none;
+ }
+
+  .onear{
+         margin-left: 25%;
+         margin-top: 5%;
+        }
+
+   .beat{
+        
+         font-size: 80px;
+         margin-top: 2%;
+         margin-left: 20%;
+
+   }
+  
+
+   .over{
+
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 24px;
+
+   }
+
+   .para{
+       margin-left: 20%;
+       width: 40%; 
+       margin-top: 10%;
+       color: rgba(245, 245, 245, 0.385);
+    
+   }
+
+   .shopping{
+               margin-top: 10%;
+               margin-left: 20%;
+               padding-left: 24px;
+               padding-right: 24px;
+               padding-top: 8px;
+               padding-bottom: 8px;
+                background-color:  rgba(87, 84, 84, 0.489);
+                color: white;
+                border: none;
+      
+   }
+
+   .shop2{
+    margin-right: 20px;
+    align-items: center;
+   }
+
+ 
+  .one{
+       margin-left: 20px; 
+       font-weight: bold;
+       align-items: center;
+  }
+
+
+    .navbaarone{
+    
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+       }
+
+
+                /* This is for spaces */
+
+    .specslogo{
+
+      padding-top: 10%;
+      padding-left: 35%;
+     
+    }
+
+    .maintwo{
+              margin-top: 5%;
+              display: flex;
+              margin-left: 30%;
+    }   
+    
+    .Connection{
+
+      margin-right: 8%;
+      width: 20%;
+
+    }
+
+    .bluetooth{
+        list-style: none;
+        margin-left: 20%;
+    }
+
+    .battery{
+      margin-top: 20px;
+      list-style: none;
+    
+    }
+
+    .charger{
+      margin-top: 20px;
+      list-style: none;
+    }
+
+    .micro{
+      margin-left: 20%;
+      margin-top: 20px;
+      list-style: none;
+    }
+        
+                            /* This is for case section */
+
+    .casesecond{
+      margin-top: 10%;
+      margin-left: 35%;
+    }
+
+    .secondpara{
+      display: flex;
+      margin-right: 20%;
+      margin-left: 20%;
+      margin-top: 10%;
+      color: rgba(245, 245, 245, 0.385) ;
+    }
+
+    .second{
+      margin-left: 20%;
+      margin-top: 30%;
+      width: 50%;
+    }
+
+    .secondbutton{
+                    margin-left: 20%;
+                    margin-top: 15%;
+                    padding-top: 2%;
+                    padding-bottom: 2%;
+                    padding-left: 6%;
+                    padding-right: 6%; 
+                    background-color: rgba(87, 84, 84, 0.489) ;
+                    color: rgba(245, 245, 245, 0.385) ;
+                    border: none;
+                    align-items: center;
+                    font-weight: bold;
+    
+    }
+
+    .group{
+      margin-right: 20px;
+    }
+
+              /* This is for our music nav */
+
+      .mainthree{
+        margin-top: 15%;
+        display: flex;  
+        margin-left: 20%;
+        margin-right: 20%; 
+        border: 2px;
+        border-radius: 20px;
+        background-color: rgba(87, 84, 84, 0.489);
+        padding-top: 3%;
+        padding-bottom: 3%;
+
+
+      }
+
+      .music{
+
+        margin-left: 7%;
+        margin-top: 10%;
+      }
+
+      .our{
+             font-size: 20px;
+
+      }
+
+      .off{
+     
+          margin-top: 20px;
+      }
+         .bag{
+              margin-left: 20px;
+              margin-top: 40px;
+              background-color: black;
+              border: none;
+              padding-top: 3%;
+              padding-bottom: 3%;
+              padding-right: 8%;
+              padding-left: 8%;
+              color: white;
+              border-radius: 4px;
+              
+         }
+   
+   .now{
+    font-weight: bold;
+    margin-right: 20px;
+   }
+    
+      /* This is for oUr images */
+
+    .product{
+      margin-top: 10%;
+      margin-left: 30%;
+    }
+
+    .mainfour{
+      margin-top: 10%;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+   .black{
+
+    position: absolute;
+    width: 80px;
+    margin-left: 10%;
+
+   }
+
+    .spanone{
+         margin-top: 15%;
+         display: flex;
+         padding-top: 8%;
+         padding-bottom: 4%;
+         padding-left: 2%;
+         padding-right: 2%;
+         margin-bottom: 10%;
+         margin-left: 96px;
+         background-color: rgba(87, 84, 84, 0.489);
+         width: 40%;
+         border-radius: 8px;
+        
+          
+    }
+
+    .blackhead{
+      margin-top: 30px;
+      font-weight: bold;
+    }
+
+    .nice{
+
+      margin-top: 8px;
+      font-weight: bold;
+    }
+
+
+    .bagone{ 
+
+       margin-left: 40px;
+       background-color: black;
+       border: none; 
+       padding-left: 10px; 
+       padding-right: 10px;
+       margin-top: 32px;
+       border-radius: 5px;
+     
+    } 
+
+    .bagtwo{
+
+      margin-left: 40px;
+      background-color: black;
+      border: none; 
+      padding-left: 10px; 
+      padding-right: 10px;
+      margin-top: 50px;
+      border-radius: 5px;
+
+    }
+                 /* This is for last navbaar */
+
+     .last{
+             display: flex;
+             justify-content: space-between;
+             padding-bottom: 50px;
+             margin-top: 10%;
+             list-style: none;
+     
+     }
+  
+     .lastimg{
+       
+      
+       padding-top: 20%;
+
+     }
+
+     .lastimgsec{
+  
+           padding-bottom: 20%;    
+     }
+
+     .lastimgthree{
+
+     padding-top: 20%;
+     
+
+
+     }
+
+      .lastlist{
+ 
+        list-style: none;
+
+      }
+
+     
+     .update{
+ 
+      font-weight: bold;
+      font-size: 20px;
+
+     }
+
+     .support{
+
+    margin-top: 15px;
+        
+     }
+
+     .ragister{
+
+      margin-top: 10px;
+
+     }
+
+
+     .Email{
+
+      border-radius: 8px;
+      background-color: rgba(87, 84, 84, 0.489);
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 8px;
+      padding-right: 8px;
+
+     }
+
+
+     .lastbutton{
+
+      border: none;
+      border-radius: 5px;
+      background-color: black;
+      color: azure;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-left: 96px;
+
+     }
+
+     .social{
+
+     display: flex;
+     margin-top: 30px;
+     list-style: none;
+
+     }
+
+     .media{
+
+      margin-left: 40px;
+
+     }
+
+                       /* Thankyou  */

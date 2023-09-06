@@ -1,0 +1,509 @@
+*{
+  
+    padding: 0% 0%;
+    margin: 0% 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+
+     background-color: whitesmoke;
+     color: black;
+     padding-left: 10%;
+     padding-right: 10%;
+     
+    }
+     
+             /* This is for navbaar */
+.navone{
+    
+    padding-top: 2%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.one{
+
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+}
+
+.price{
+
+    margin-right: 30px;
+}
+
+.start{
+  
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-color: blueviolet;
+    color: blueviolet;
+    border-radius: 10px;
+
+
+}
+
+         /* This is for analystic */
+
+         .mainone{
+
+          padding-top: 5%;
+          display: flex;
+          justify-content: space-between;
+
+         }
+
+         .left{
+
+            padding-top: 5%;
+         }
+
+         .released{
+            
+           list-style: none;
+           color: blueviolet;
+           box-shadow: 10px 10px 10px 10px rgb(164, 163, 163),;
+
+         }
+
+         .your{
+
+            padding-top: 2%;
+            font-size: 40px;
+            width: 55%;
+         }
+
+         .data{
+
+            padding-top: 2%;
+            width: 65%;
+            color: rgba(71, 69, 69, 0.85);
+
+         }
+
+         .class{
+
+            padding-top: 3%;
+         }
+
+         .free{
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            background-color: blueviolet;
+            color: rgb(231, 227, 227);
+            border: none;
+            border-radius: 16px;
+        }
+
+ 
+         .more{
+            margin-left: 20px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            color: blueviolet;
+            background-color: rgb(231, 227, 227) ;
+            border: none;
+            border-radius: 16px;
+         }
+            
+
+        .why{
+            margin-top: 10%;
+            margin-left: 45%;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 16px;
+            padding-right: 16px;
+            color: blueviolet;
+            background-color: rgb(231, 227, 227);
+            border: none;
+            border-radius: 16px;
+            align-items: center;
+        }
+
+        .eye{
+
+            margin-right: 10px;
+        }
+
+        .get{
+            margin-top: 4%;
+            margin-left: 22%;
+            font-size: 35px;
+            font-style: normal;
+            
+        }
+
+
+        .lorem{
+
+            margin-left: 26%;
+            margin-right: 18%;
+            margin-top: 3%;
+            color:rgba(71, 69, 69, 0.85) ;
+        }
+
+          /* This is for graphs and values */
+
+          .navsecond{
+            margin-top: 3%;
+            margin-left: 4%;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            align-items: center;
+          }
+
+          .image{
+
+            margin-left: 30%;
+          }
+
+           .imagetw{
+            margin-left: 20%;
+           }
+
+           .imaget{
+
+            margin-left: 15%;
+           }
+           
+          .value{
+            
+           margin-top: 10px;
+            font-size: 20px;
+            color: black;
+            font-weight: bolder;
+            
+          }
+
+
+          .divone{
+
+            width: 25%;
+          }
+
+          .divsec{
+            width: 25%;
+          }
+
+          .divth{
+            width: 25%;
+          }
+
+          .with{
+            margin-top: 2%;
+            width: 55%;
+            margin-left: 20px;
+            margin-right: 20px;
+            color: rgba(71, 69, 69, 0.85) ; 
+          }
+            
+          /* This is for second main */
+
+
+             .navbaarthree{
+
+                     display: flex;
+                     justify-content: space-between;
+                     margin-top: 4%;
+
+             }
+
+            
+              .dive{
+
+                  margin-left: 10%;
+                  margin-top: 10%;
+
+              }
+
+
+
+             .team{
+              margin-top: 5%;
+              padding-top: 8px;
+              padding-bottom: 8px;
+              padding-left: 16px;
+              padding-right: 16px;
+              background-color: rgb(231, 227, 227) ;
+              color: blueviolet;
+              font-size: 15px;
+              border: none;
+            
+             }
+
+             .group{
+
+              margin-right: 10px;
+              
+             }
+
+             .stack{
+
+              font-size: 30px;
+              margin-top: 4%;
+
+             }
+
+            .platform{
+
+              margin-top: 4%;
+              width: 70%;
+              color :rgba(71, 69, 69, 0.85);
+            }
+        
+                         /* this is for third main */
+
+            .mainthird{
+              margin-top: 10%;
+              display: flex;
+              justify-content: space-between;
+            }
+
+            .platformo{
+              margin-top: 4%;
+              width: 95%;
+              color :rgba(71, 69, 69, 0.85);
+            }
+
+
+            .love{
+              margin-top: 5%;
+              margin-left: 20%; 
+              margin-right: 15%; 
+              font-size: x-large;
+              text-align: center;
+            }
+
+            .cto{
+
+              text-align: center;
+              margin-top: 5%;
+            }
+            .rowan{
+              font-size: large;
+              font-weight: bold;
+            }
+
+            .span{
+              padding-top: 5%;
+              color:rgba(71, 69, 69, 0.85) ;
+
+            }
+
+
+            .logo{
+                  
+              display: flex;
+              justify-content: space-around;
+              margin-top: 5%;
+
+            }
+
+                       /* This is for last main */
+                       
+
+              .mainlast{
+
+                display: flex;
+                margin-top: 15%;
+
+              }
+                     /* Right section */
+              .see{
+
+                font-size: xx-large;
+                width: 60%;
+
+              }
+
+              .by{
+                margin-left: 2%;
+                margin-top: 5%;
+               color:rgba(71, 69, 69, 0.85) ;
+              }
+
+              .grid{
+                      margin-top: 10%;
+                      display: grid;
+                      grid-template-columns: 70px 70px;
+                      gap: 80px;
+              }
+   
+
+                         /* Left section */
+
+                        .sign{
+                              
+                          width: 50%;
+                          margin-right: 20%;
+
+                          box-shadow: 10px  5px 5px gray;
+
+                          
+                          } 
+   
+
+                         .signup{
+                          font-size: large;
+                          font-weight: bold;
+                          margin-left: 30%;
+                          margin-bottom: 5%;
+                         }
+
+                         .open{
+                               margin-left: 10%;
+                               text-align: center;
+                               padding-top: 14px;
+                               padding-right: 50px;
+                               padding-left: 50px;
+                               padding-bottom: 14px;
+                               background-color: blueviolet;
+                               color:  whitesmoke;
+                               border: none;
+
+                         }
+
+                         .email{
+                          margin-left: 10%;
+                          padding-top: 10px;
+                          padding-bottom: 10px;
+                          padding-right: 40px;
+                          margin-top: 4px;
+                          margin-bottom: 2px;
+                         }
+
+                        .password{
+
+                           margin-left: 10%;
+                           padding-top: 10px;
+                           padding-bottom: 10px;
+                           padding-right: 40px;
+                           margin-bottom: 2px;
+                           margin-top: 4px;
+
+                        }
+
+                         .in{
+
+                          margin-left: 12%;
+                          margin-top: 4px;
+
+                         }
+                        .or{
+                          margin-top: 4%;
+                          margin-left: 40%;
+                          font-size: medium;
+
+                        }
+
+                        .spantw{
+
+                          margin-left: 8%;
+                          color: gray;
+                        }
+
+                        .account{
+
+                          display: flex;
+                        }
+
+                        .already{
+
+                          margin-left: 10%;
+                          margin-top: 8px;
+                        }
+
+                        .ass{
+                      
+                       background-color: white;
+                       color: blue;
+                       border: none;
+                       margin-top: 8px;
+                        }
+
+
+                         /* This is for last navbaar */
+
+                 .navlast{
+
+                  display: flex;
+                  margin-top: 20%;
+                  margin-bottom: 8%;
+                  justify-content: space-between;
+                 }        
+                      
+                 
+                 .lastdiv{
+                        
+                  width: 30%;
+
+                 }
+
+                 .para{
+
+                  margin-top: 6px;
+                 }
+
+                 .src{
+
+                  margin-top: 6px;
+                  margin-left: 4px;
+                 }
+
+
+                 .ul{
+
+                  list-style: none;
+                 }
+
+                .last{
+
+                  font-size: large;
+                  font-weight: bold;
+                  margin-bottom: 14px;
+                  list-style: none;
+                }
+
+                .list{
+
+                   margin-top: 6px;
+
+                }
+
+                .form{
+                     display: flex;
+                     justify-content: space-between;
+                     align-items: center;
+                     padding-top: 8px;
+                     padding-bottom: 8px;
+                     padding-left: 10px;
+                     padding-right: 10px;
+                     background-color:rgb(231, 227, 227);
+                     color: gray ;
+                    
+                }
+
+                .image{
+
+                  margin-left: 100px;
+                }
+             
+                    
+                                             /* Thankyou */
+                
+
+
+
